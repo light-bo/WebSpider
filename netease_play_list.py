@@ -1,3 +1,5 @@
+# 抓取网易云音乐播放量大于 500 万的歌单
+
 from selenium import webdriver
 import csv
 from selenium.webdriver.chrome.options import Options
